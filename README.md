@@ -12,6 +12,9 @@
 
 *this is in italics*
 
+![Yummy](./recipe.png)
+
+
 ### This is a LOCAL change :)
 # Stuffed Bell Peppers
 line 2 changed remotely
