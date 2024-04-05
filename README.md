@@ -1,3 +1,15 @@
+# Adding a level 1 heading
+### adding a level 3 heading
+
+1. This
+2. Is
+3. An
+4. **Ordered**
+5. *List*
+
+![Yummy](./recipe.png)
+
+
 ### This is a LOCAL change :)
 # Stuffed Bell Peppers
 line 2 changed remotely
