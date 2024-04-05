@@ -1,14 +1,6 @@
-# Adding a level 1 heading
+# ADDING A LEVEL 1 HEADING
+
 ### adding a level 3 heading
-
-1. This
-2. Is
-3. An
-4. **Ordered**
-5. *List*
-
-![Yummy](./recipe.png)
-
 
 ### This is a LOCAL change :)
 # Stuffed Bell Peppers
